@@ -62,6 +62,6 @@ function keyPressed() {
             b--;
             break;
         default:
-            console.log("wrong button!");
+            console.log("wrong button! YO");
     }
 }
